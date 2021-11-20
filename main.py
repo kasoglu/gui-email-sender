@@ -8,7 +8,7 @@ FONT = ("Times New Roman", 20, "italic")
 # ====================== E-MAIL SENDER SECTION ====================#
 
 def send_email():
-    # Replace with your email address
+    # Replace with your email address and password
     my_email = "your@email.com"
     password = "password"
 
@@ -16,7 +16,7 @@ def send_email():
     to = reciever.get()
     text = message.get("1.0", END)
 
-    # Replace with your mail address SMTP server.
+    # Replace with your mail address SMTP server. Unless it will not work.
     # Gmail: smtp.gmail.com
     # Hotmail: smtp.live.com
     # Outlook: outlook.office365.com
