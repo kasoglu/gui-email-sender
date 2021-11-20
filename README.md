@@ -26,5 +26,4 @@ After you can run the `main.py` to start the email sender.
 # Documentations
 
 * [Tkinter Module](https://docs.python.org/3/library/tkinter.html)
-* [Pandas](https://pandas.pydata.org/pandas-docs/stable/reference/index.html#api)
 * [Smtplib](https://docs.python.org/3/library/smtplib.html)
